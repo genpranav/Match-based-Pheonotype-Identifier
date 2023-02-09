@@ -1,4 +1,4 @@
-# Regex-based Causual gene Identifier using Python
+# Regex-based Causal gene Identifier using Python
 
 Molecular Sequences are accepted as the definitive aspect of an organism's properties but sifting large volumes of high-confidence biological data is a challenging process. Recent methods are far superior when it comes to localization and comparison in addition to relevant evaluation metrics which justify those claims but Regex-based algorithms serve as the logical foundation of traditional approaches.
 
